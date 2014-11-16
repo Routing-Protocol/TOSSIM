@@ -1,0 +1,7 @@
+COMPONENT=Acked2ToggledAppC
+
+PFLAGS+=-DRF230_DEF_RFPOWER=0xF
+
+include $(MAKERULES)
+
+
