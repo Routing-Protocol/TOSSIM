@@ -1,0 +1,7 @@
+COMPONENT=ToggledEfficiencyAppC
+
+PFLAGS+=-DRF230_DEF_RFPOWER=0xF
+
+include $(MAKERULES)
+
+
